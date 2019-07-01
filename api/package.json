@@ -1,0 +1,22 @@
+{
+  "name": "meal-booking-api",
+  "version": "1.0.0",
+  "description": "Meal Booking API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterayeniofficial/MealBookingAPI.git"
+  },
+  "keywords": [
+    "Food"
+  ],
+  "author": "Peter Ayeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterayeniofficial/MealBookingAPI/issues"
+  },
+  "homepage": "https://github.com/peterayeniofficial/MealBookingAPI#readme"
+}
